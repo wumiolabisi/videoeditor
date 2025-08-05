@@ -14,7 +14,7 @@ const sansation = Sansation({
 
 })
 export const metadata: Metadata = {
-  title: "Omowumi OLABISI - Monteuse vidéo, développeuse web, graphiste",
+  title: "Omowumi OLABISI - Monteuse vidéo, monteuse audiovisuelle, graphiste et chargée de contenus web",
   description:
     "Je m'appelle Omowumi et je suis monteuse vidéo - Découvrez toutes mes compétences dans ce portfolio !",
 };
