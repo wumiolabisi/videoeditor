@@ -77,7 +77,7 @@ export default function Projets() {
           className="blur-5px width-100vw object-fit-cover object-center"
         />
         <section className="absolute z-index-1 width-100pc top-30px display-flex flex-column align-items-start padding-left-5pc">
-          <p className="width-80pc font-size-20px secondary-color">
+          <p className="width-80pc md-font-size-20px secondary-color">
             Découvrez mes compétences derrière ces projets de montage !
           </p>
           <Link href="/skills" className="btn">

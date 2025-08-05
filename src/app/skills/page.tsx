@@ -17,22 +17,10 @@ export default function Skills() {
         <h2>Compétences techniques</h2>
         <p>Montage et post-production, effets spéciaux et animation</p>
         <section className="display-grid grid-default md-flex-column flex-wrap gap-10px">
-          <SkillSet
-            src={"/icons/DaVinci_Resolve_Studio.png"}
-            skillTitle={"DaVinci Resolve"}
-            progress={"85"}
-          >
-            <ul className="padding-left-5pc">
-              <li>Dérushage et organisation logique des séquences</li>
-              <li>Montage narratif (fiction, interviews, formats courts)</li>
-              <li>
-                Export aux normes broadcast et web (Youtube, Insta, TV, etc.)
-              </li>
-            </ul>
-          </SkillSet>
+        
           <SkillSet
             src={"/icons/adobe_premiere_pro.svg"}
-            skillTitle={"Adobe Premiere Pro"}
+            skillTitle={"Adobe Premiere Pro/DaVinci Resolve"}
             progress={"90"}
           >
             <ul className="padding-left-5pc">
@@ -192,7 +180,7 @@ export default function Skills() {
           className="blur-5px width-100vw object-fit-cover object-center"
         />
         <section className="absolute z-index-1 width-100pc top-30px display-flex flex-column align-items-start padding-left-5pc">
-          <p className="width-80pc font-size-20px secondary-color">
+          <p className="width-80pc md-font-size-20px secondary-color">
             Découvrez mes compétences en action à travers mes derniers projets
             de montage
           </p>

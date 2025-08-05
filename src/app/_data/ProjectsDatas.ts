@@ -4,7 +4,7 @@ const ProjectsDatas = [
     title: "Les Maux Sous La Peau – Court métrage documentaire",
     desc: "Les Maux Sous La Peau est un court métrage documentaire réalisé par Anne Roux, qui explore les souffrances intimes et invisibles des individus à travers des témoignages poignants. Ce film vise à sensibiliser le public à ces douleurs enfouies, en combinant un travail d’enquête et une approche artistique forte.",
     type: "Documentaire",
-    img: "/images/projet-anne.png",
+    img: "/images/projet-anne.PNG",
     src: "https://vimeo.com/961111352?share=copy",
     teaser: "",
     format: "Court-métrage",
